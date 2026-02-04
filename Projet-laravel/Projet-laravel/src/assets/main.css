@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Si tu as encore des erreurs avec @import, remets les directives classiques : */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+*/
